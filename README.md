@@ -1,8 +1,8 @@
-- 👋 Hi, 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 ola eu sou fabio
+- 👀 tenho 15 anos 
+- 🌱 estudo no marco antonio pimenta
+- 💞️ moro no parana/maringa
+- 📫 estudante do professor zulin
 
 <!---
 iokjkjkjkjk/iokjkjkjkjk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
